@@ -1,0 +1,15 @@
+{
+  "name": "@eugpoloz/hello-world",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Hello-world: amazing grace",
+  "repository": "https://ide.c9.io/eugpoloz/how-to-npm-fcc",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
